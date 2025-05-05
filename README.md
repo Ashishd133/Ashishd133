@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi, I'm Ashish 👋
 
-<!--
-**Ashishd133/Ashishd133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Tech Consultant | Data Scientist | AI Engineer  
+🎯 Specializing in NLP, Generative AI, Azure AI Services, and Solution Architecture  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Do
+- 🧾 Document Intelligence using Azure AI & LangChain
+- 🌍 Multilingual Document Translation & NLP
+- 📊 AI-driven Data Platforms with Azure Fabric & OneLake
+- 🤖 Chatbots, RAG Apps, Semantic Search, and LLMOps
+- 🏋️ Personal interest: Gym & Bodybuilding journey
+
+---
+
+## 🛠️ Tech Stack
+**Languages**: Python, SQL, JavaScript  
+**Frameworks**: FastAPI, Streamlit, LangChain  
+**Cloud**: Azure (Blob, AI Search, App Service, Key Vault, ACR, etc.)  
+**Tools**: Docker, Azure DevOps, PowerApps, OpenAI APIs  
+
+---
+
+## 📈 Stats
+![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+
+---
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://your-portfolio.com)
