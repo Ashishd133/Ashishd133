@@ -23,10 +23,10 @@
 ---
 
 ## 📈 Stats
-![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashishd133&show_icons=true&theme=default)
 
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ashishdalmia)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://your-portfolio.com)
